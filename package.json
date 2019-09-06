@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TheTrunk/bitcore-build-zelcash"
+    "url": "git://github.com/zelcash/bitcore-build-zelcash"
   },
   "keywords": [
     "bitcore"
@@ -41,9 +41,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheTrunk/bitcore-build-zelcash/issues"
+    "url": "https://github.com/zelcash/bitcore-build-zelcash/issues"
   },
-  "homepage": "https://github.com/TheTrunk/bitcore-build-zelcash",
+  "homepage": "https://github.com/zelcash/bitcore-build-zelcash",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",

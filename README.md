@@ -7,7 +7,7 @@ A helper to add tasks to gulp.
 Install with:
 
 ```sh
-git clone https://github.com/TheTrunk/bitcore-build-zelcash.git
+git clone https://github.com/zelcash/bitcore-build-zelcash.git
 cd bitcore-build-zelcash
 npm install
 ```
