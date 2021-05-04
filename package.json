@@ -1,14 +1,14 @@
 {
-  "name": "bitcore-build-zelcash",
+  "name": "bitcore-build",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore-zelcash modules'",
+  "description": "A helper for common tasks to build bitcore modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/zelcash/bitcore-build-zelcash"
+    "url": "git://github.com/runonflux/bitcore-build"
   },
   "keywords": [
     "bitcore"
@@ -41,9 +41,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zelcash/bitcore-build-zelcash/issues"
+    "url": "https://github.com/runonflux/bitcore-build/issues"
   },
-  "homepage": "https://github.com/zelcash/bitcore-build-zelcash",
+  "homepage": "https://github.com/runonflux/bitcore-build",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
